@@ -1,0 +1,13 @@
+{
+  "name": "Flash USDT Testnet Token List",
+  "tokens": [
+    {
+      "address": "TN7c8g7D7LUQusRjZsnHLrDBe29GTiDrUz",
+      "chainId": 3448148188,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "ipfs://bafkreibn4y6llleughtp5pgu37lve7mymvcffpo5i2h6iw4t4iwo6z5ocu"
+    }
+  ]
+}
